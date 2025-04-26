@@ -18,7 +18,7 @@ You can find me on Linkedin: linkedin.com/in/aliyah-allones-231652261, Handshake
 
 #### Project 1 Title
  - Project 1 Summary
- - ![Project Image](images/IMG_9130.JPG)
+ - ![Project Image](images/DSCF6868.jpg)
  - Project 1 Report
 ***
 
