@@ -1,5 +1,6 @@
 # Aliyah Allones
-Contact Info: [fill in]
+## Data Science Technician
+Contact Info: alallones@loyola.edu 443-929-0007
 ### About Me 
 Hello! I am a student at Loyola University Maryland with a major in Digital Health & Data Analytics. I am a intermediate Computer science professional with over 2 years of proven expertise in CS and Microsoft 365. 
 
