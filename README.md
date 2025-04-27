@@ -16,8 +16,10 @@ You can find me on Linkedin: linkedin.com/in/aliyah-allones-231652261, Handshake
 
 ### Projects
 
-#### Project 1 Title
- - Project 1 Summary
+#### Access Database: Student Grades and Transcripts
+ - For this project, I created a Microsoft Access database to manage student academic records. I designed a table to store student information, including first name, last name, mailing address, student ID, course codes, course names, semesters, and overall grades.
+I built queries to organize and filter the data, making it easier to find specific student records, semester & overall GPA's, and generate a detailed manuscript for specific students.
+In this image of my projecr, I created transcript reports for two students. Each transcript includes course details, semester GPA, and overall GPA. The reports were exported as PDFs.
  - ![Project Image](images/student-transcript.png)
  - Project 1 Report
 ***
