@@ -17,11 +17,29 @@ You can find me on Linkedin: linkedin.com/in/aliyah-allones-231652261, Handshake
 ### Projects
 
 #### Access Database: Student Grades and Transcripts
+#### Summary:
  - For this project, I created a Microsoft Access database to manage student academic records. I designed a table to store student information, including first name, last name, mailing address, student ID, course codes, course names, semesters, and overall grades.
 I built queries to organize and filter the data, making it easier to find specific student records, semester & overall GPA's, and generate a detailed manuscript for specific students.
 In this image of my projecr, I created transcript reports for two students. Each transcript includes course details, semester GPA, and overall GPA. The reports were exported as PDFs.
  - ![Project Image](images/student-transcript.png)
- - Project 1 Report
+ #### Project Report:
+ - Initial project idea: 
+#### How did you come up with this project? What problem did you set out to solve, and why was it a problem that needed to be solved? 
+
+#### Tools I used: 
+What tools did you use in completing this project? 
+
+#### Challenges I faced:
+What challenges did you face, and how? What obstacles did you overcome? 
+
+#### Other Resources: 
+Did you used any other resources? Did you collaborate with anyone to get this done? 
+
+#### Result:
+What did you set out to achieve? Did you achieve it? What improvements would you like to make if you had a chance to take this further? 
+
+#### Summary:
+Write a 25 to 35 word summary for this project.
 ***
 
 #### Project 2 Title
