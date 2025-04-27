@@ -23,23 +23,23 @@ I built queries to organize and filter the data, making it easier to find specif
 In this image of my projecr, I created transcript reports for two students. Each transcript includes course details, semester GPA, and overall GPA. The reports were exported as PDFs.
  - ![Project Image](images/student-transcript.png)
  #### Project Report:
- - Initial project idea: 
-#### How did you come up with this project? What problem did you set out to solve, and why was it a problem that needed to be solved? 
+ Initial project idea: 
+- How did you come up with this project? What problem did you set out to solve, and why was it a problem that needed to be solved? 
 
-#### Tools I used: 
-What tools did you use in completing this project? 
+Tools I used: 
+- What tools did you use in completing this project? 
 
-#### Challenges I faced:
-What challenges did you face, and how? What obstacles did you overcome? 
+Challenges I faced:
+- What challenges did you face, and how? What obstacles did you overcome? 
 
-#### Other Resources: 
-Did you used any other resources? Did you collaborate with anyone to get this done? 
+Other Resources: 
+- Did you used any other resources? Did you collaborate with anyone to get this done? 
 
-#### Result:
-What did you set out to achieve? Did you achieve it? What improvements would you like to make if you had a chance to take this further? 
+Result:
+- What did you set out to achieve? Did you achieve it? What improvements would you like to make if you had a chance to take this further? 
 
-#### Summary:
-Write a 25 to 35 word summary for this project.
+Summary:
+- Write a 25 to 35 word summary for this project.
 ***
 
 #### Project 2 Title
