@@ -8,7 +8,10 @@ With skills in programming, data analytics, Excel, and Python, I am able to Lear
 
 My varying skill set, commitment to learning, and passion for using said experience for searching career options makes me as a valuable asset.  In my spare time, I like to learn about video game designs and drawing digital art for clubs/organizations. 
 
-You can find me on Linkedin: linkedin.com/in/aliyah-allones-231652261, Handshake: https://app.joinhandshake.com/profiles/bzwkqx or Instagram: https://www.instagram.com/aliyahallones__/
+You can find me on:
+- [Linkedin](linkedin.com/in/aliyah-allones-231652261)
+- [Handshake](https://app.joinhandshake.com/profiles/bzwkqx)
+- [Instagram](https://www.instagram.com/aliyahallones__/)
 
 
 ### Education 
@@ -23,9 +26,12 @@ You can find me on Linkedin: linkedin.com/in/aliyah-allones-231652261, Handshake
 I built queries to organize and filter the data, making it easier to find specific student records, semester & overall GPA's, and generate a detailed manuscript for specific students.
 In this image of my projecr, I created transcript reports for two students. Each transcript includes course details, semester GPA, and overall GPA. The reports were exported as PDFs.
  - ![Project Image](images/student-transcript.png)
+
  #### Project Report:
+
  Initial project idea: 
 - How did you come up with this project? What problem did you set out to solve, and why was it a problem that needed to be solved? 
+    - This project was an assingmeent from my CS105 class where we learned how to use Access in order to build projects. The problem that i set out to solve was to make a access database where potential administrations can use an access database to create transcripts for students. 
 
 Tools I used: 
 - What tools did you use in completing this project? 
