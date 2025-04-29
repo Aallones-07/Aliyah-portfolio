@@ -29,19 +29,19 @@ In this image of my projecr, I created transcript reports for two students. Each
 
 Tools I used: 
 - What tools did you use in completing this project? 
+    - I used Microsoft Access, google, and excel. I used Access as the main software in making my queries and relationships. i used google to answer any questions i might have about acess that i need help on. And lastly, i used Excel as a .csv file to input my tables into the fields in Access. 
 
 Challenges I faced:
 - What challenges did you face, and how? What obstacles did you overcome? 
+    - I had trouble with the formatting of the transcript. Using form wizard was harder to do than I originally thought. I watched youtube tutorials online to aid me in fixing up my transcript, and made sure that all the information was correct. 
 
 Other Resources: 
-- Did you used any other resources? Did you collaborate with anyone to get this done? 
+    - I mainly used YouTube as it had very helpful guides to guide me through with using form wizard, making queries, building relationships, etc. 
 
 Result:
 - What did you set out to achieve? Did you achieve it? What improvements would you like to make if you had a chance to take this further? 
+    - I set out to achieve a fully working access transcript where i could put all nessecary queries into one page. if i had more time on this assignment, I would create another page with an average calculator on how well a student does in each class and which classes they need more work on. 
 
-Summary:
-- Write a 25 to 35 word summary for this project.
-***
 
 #### Project 2 Title
  - Project 2 Summary
