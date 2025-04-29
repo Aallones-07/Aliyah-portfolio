@@ -13,21 +13,19 @@ You can find me on:
 - [Handshake](https://app.joinhandshake.com/profiles/bzwkqx)
 - [Instagram](https://www.instagram.com/aliyahallones__/)
 
-
 ### Education 
-[Fill in Education here]
-***
+Loyola University Maryland Undergraduate Student. Class of 2027 majoring in BIOHEALTH: digital health and data analytics, GPA average of 3.3 and currently a Sophmore rising junior. In 2 organizational clubs, both having a role in executive board member as Social Media/PR Director. 
 
 ### Projects
 
-#### Access Database: Student Grades and Transcripts
+## Access Database: Student Grades and Transcripts
 #### Summary:
  - For this project, I created a Microsoft Access database to manage student academic records. I designed a table to store student information, including first name, last name, mailing address, student ID, course codes, course names, semesters, and overall grades.
 I built queries to organize and filter the data, making it easier to find specific student records, semester & overall GPA's, and generate a detailed manuscript for specific students.
 In this image of my projecr, I created transcript reports for two students. Each transcript includes course details, semester GPA, and overall GPA. The reports were exported as PDFs.
  - ![Project Image](images/student-transcript.png)
 
- #### Project Report:
+#### Project Report:
 
  Initial project idea: 
 - How did you come up with this project? What problem did you set out to solve, and why was it a problem that needed to be solved? 
@@ -50,13 +48,13 @@ Result:
 
 
 #### Project 2 Title
- - Project 2 Summary
- - [insert project 2 screenshot here]
- - Project 2 Report
-***
+- Project 2 Summary
+- ![Project Image](images/jdoodle-information-card.png)
+- Project 2 Report
+
 
 #### Project 3 Title
  - Project 3 Summary
- - [insert project 3 screenshot here]
+- ![Project Image](images/time-sheet.png)
  - Project 3 Report
 
