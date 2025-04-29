@@ -47,7 +47,7 @@ Result:
     - I set out to achieve a fully working access transcript where i could put all nessecary queries into one page. if i had more time on this assignment, I would create another page with an average calculator on how well a student does in each class and which classes they need more work on. 
 
 
-#### Project 2 Title
+#### Jdoodle Student Info Card
 -Summary:
     -I built a Python program that asks for your name, major, and five classes, then prints it out like an info card. this allows for a clean and simple intro to input/output.
 - ![Project Image](images/jdoodle-information-card.png)
@@ -67,7 +67,7 @@ Result:
     -I wanted to make a simple info card, and i was able to successfully do so with my previous knowledge on python. If I had more time, I’d add features like a loop or a nicer layout with colors (if it supported it).
 
 
-#### Project 3 Title
+#### Biweekly Time-Sheet Tracker for Small Companies
 Summary:
     -I created a two-week timesheet in Excel that calculates hours worked each day, subtracts breaks, and totals everything up. It could be useful for small companies who need help tracking employee hours.
 - ![Project Image](images/time-sheet.png)
