@@ -48,13 +48,40 @@ Result:
 
 
 #### Project 2 Title
-- Project 2 Summary
+-Summary:
+    -I built a Python program that asks for your name, major, and five classes, then prints it out like an info card. this allows for a clean and simple intro to input/output.
 - ![Project Image](images/jdoodle-information-card.png)
-- Project 2 Report
+- Initial Project Idea:
+    -This was an assignment for my class to practice using Python inputs and outputs. I needed to make a program that collects basic student info and prints it back in a clean format.
+
+Tools I Used:
+    -I used JDoodle to write and run my Python code and youtube to show me how to make any tricky lines of code.
+
+Challenges I Faced:
+    -I didnt face much challenge while making this. I already had previous experience with python, but one thing i did have trouble with was Jdoodle website itself. Sometimes it would crash and not run the code, but I was able to fix it with a simple refresh button on the page. 
+
+Other Resources:
+    -Youtube.
+
+Result:
+    -I wanted to make a simple info card, and i was able to successfully do so with my previous knowledge on python. If I had more time, I’d add features like a loop or a nicer layout with colors (if it supported it).
 
 
 #### Project 3 Title
- - Project 3 Summary
+Summary:
+    -I created a two-week timesheet in Excel that calculates hours worked each day, subtracts breaks, and totals everything up. It could be useful for small companies who need help tracking employee hours.
 - ![Project Image](images/time-sheet.png)
- - Project 3 Report
+- Initial Project Idea:
+    -This was an assignment for class to track work hours. This helps alleviate the need to write it down by hand or guessing. This provides a cleaner and automatic way to see total hours.
 
+Tools I Used:
+    -I used Microsoft Excel to build the whole sheet. I used formulas for the time calculations and added totals for each week and the whole two-week period.
+
+Challenges I Faced:
+    -Figuring out the time math with AM and PM took a little trial and error. I also had to make sure the break time didn’t mess up the total hours.
+
+Other Resources:
+    -None.
+
+Result:
+    -The results showcased a fully functioning time-sheet tracker. If I kept working on it, I’d probably add auto-pay calculations or overtime tracking.
